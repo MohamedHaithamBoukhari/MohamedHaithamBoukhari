@@ -1,4 +1,10 @@
+
+https://github.com/MohamedHaithamBoukhari/MohamedHaithamBoukhari/assets/118653608/0f19fbda-182d-4c59-a5b7-302d4eb50d7d
 ![Header](./header-image.png)
+## Examples of work
+
+https://github.com/MohamedHaithamBoukhari/MohamedHaithamBoukhari/assets/118653608/a3022b6d-e7f1-4749-b94e-38c6d366654f
+
 
 - 📫 How to reach me **mohamedhaitamboukhari@gmail.com**
 
