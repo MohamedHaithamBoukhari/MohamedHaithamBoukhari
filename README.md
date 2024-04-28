@@ -1,5 +1,3 @@
-
-https://github.com/MohamedHaithamBoukhari/MohamedHaithamBoukhari/assets/118653608/0f19fbda-182d-4c59-a5b7-302d4eb50d7d
 ![Header](./header-image.png)
 ## Examples of work
 
