@@ -1,6 +1,4 @@
 ![Header](./header-image.png)
-<h1 align="center">Hi 👋, I'm Mohamed Haitham Boukhari</h1>
-<h3 align="center">A passionate full-stack developer from Morocco</h3>
 
 - 📫 How to reach me **mohamedhaitamboukhari@gmail.com**
 
